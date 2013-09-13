@@ -1,0 +1,9 @@
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.exe
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\bin\Debug\EncodingConverter.pdb
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\obj\x86\Debug\EncodingConverter.FormMain.resources
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\obj\x86\Debug\EncodingConverter.Properties.Resources.resources
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\obj\x86\Debug\ResGen.read.1.tlog
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\obj\x86\Debug\ResGen.write.1.tlog
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\obj\x86\Debug\EncodingConverter.exe
+d:\users\wang_hj\documents\visual studio 2010\Projects\EncodingConverter\EncodingConverter\obj\x86\Debug\EncodingConverter.pdb
